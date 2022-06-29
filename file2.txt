@@ -1,2 +1,3 @@
 second file heres
-next line,
+next line,content updated
+content added in line3 
